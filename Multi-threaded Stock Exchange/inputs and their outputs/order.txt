@@ -1,0 +1,9 @@
+1.052 1 David 10 sell 2 A 20 true
+3.011 3 Neil 3 buy 3 A 100 true
+3.057 3 Bob 2 sell 2 A 100 false
+4.002 4 Julia 3 sell 2 A 20 true
+5.012 5 Ben 4 buy 4 A 200 true
+7.019 7 James 6 buy 2 A 150 false
+8.009 8 Susan 7 Sell 3 A 10 true
+9.011 9 Amy 8 Buy 2 A 100 false
+9.061 9 Mark 9 Sell 3 A 15 false

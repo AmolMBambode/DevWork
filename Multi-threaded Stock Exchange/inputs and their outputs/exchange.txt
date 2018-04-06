@@ -1,0 +1,19 @@
+S 1.052 0 1 David 10 sell 2 A 20 true
+P 3.011 0 3 Neil 3 buy 3 A 100 true
+T 3.012  1 David 10 sell 2 A 20 true
+T buy3.013  3 Neil 3 buy 3 A 100 true
+S 3.089 0 3 Bob 2 sell 2 A 100 false
+S 4.002 0 4 Julia 3 sell 2 A 20 true
+T 4.003 3 Neil 3 buy 3 A 100 true
+T sell 4.003 4 Julia 3 sell 2 A 20 true
+P 5.012 0 5 Ben 4 buy 4 A 200 true
+T 5.013  1 David 10 sell 2 A 20 true
+T buy5.013  5 Ben 4 buy 4 A 200 true
+T 5.013  1 David 10 sell 2 A 20 true
+T buy5.013  5 Ben 4 buy 4 A 200 true
+P 7.019 0 7 James 6 buy 2 A 150 false
+S 8.009 0 8 Susan 7 Sell 3 A 10 true
+T 8.01 5 Ben 4 buy 4 A 200 true
+T sell 8.01 8 Susan 7 Sell 3 A 10 true
+P 9.011 0 9 Amy 8 Buy 2 A 100 false
+S 9.061 0 9 Mark 9 Sell 3 A 15 false
